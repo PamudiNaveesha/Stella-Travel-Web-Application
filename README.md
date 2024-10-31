@@ -88,7 +88,7 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 ### Book Tours page
 ![Screenshot 6](screenshots/screenshot6.png)
 
-### New Bookings page
+### New Bookings page admin View
 ![Screenshot 8](screenshots/screenshot8.png)
 
 ### Tours page Admin View
