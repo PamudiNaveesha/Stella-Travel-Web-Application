@@ -79,3 +79,8 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ## Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
