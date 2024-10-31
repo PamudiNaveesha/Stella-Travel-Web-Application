@@ -28,7 +28,7 @@ A brief description of your project goes here. Explain what the project does and
 ### Book Tours page
 ![Screenshot 6](screenshots/screenshot6.png)
 
-### New Bookings page admin View
+### New Bookings page Admin View
 ![Screenshot 8](screenshots/screenshot8.png)
 
 ### Tours page Admin View
