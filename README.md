@@ -54,10 +54,11 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 
 ## Set Up Environment Variables
 
-- Open the `.env` file in the BACKEND folder of your project and add the following line:
-- **MONGODB_URI**: This is the key that your application will use to access the MongoDB database.
-- **MongoDB URI Format**: Replace `<username>`, `<password>`, `<clustername>`, and `<database>` with your actual MongoDB credentials and database name.
-- 
+1. Open the `.env` file in the **BACKEND** folder of your project.
+2. Add the following line to the file:
+3. **MONGODB_URI**: This is the key that your application will use to access the MongoDB database.
+4. **MongoDB URI Format**: Replace `<username>`, `<password>`, `<clustername>`, and `<database>` with your actual MongoDB credentials and database name.
+  
 ## Run the Project
 
 #### Start the backend server
