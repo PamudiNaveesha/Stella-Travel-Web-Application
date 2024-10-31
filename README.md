@@ -6,8 +6,8 @@ A brief description of your project goes here. Explain what the project does and
 
 - [Prerequisites](#prerequisites)
 - [Clone the Repository](#clone-the-repository)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Navigate to the Project Directory](#navigate-to-the-project-directory)
+- [Install Dependencies](#install-dependencies)
 - [API Endpoints](#api-endpoints)
 - [Project Interfaces](#project-interfaces)
 - [Technologies Used](#technologies-used)
@@ -38,17 +38,21 @@ Before you begin, ensure you have met the following requirements:
 
 To clone the repository, run the following command in your terminal:
 
-```bash
 git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
-
-## Installation
-
-Follow these steps to set up your project locally:
 
 ### Navigate to the Project Directory
 
 After cloning the repository, navigate into the project directory:
 
-```bash
 cd Stella-Travel-Web-Application-for-Culture-and-Tourism
+
+## Install Dependencies
+
+# For the backend
+cd BACKEND
+npm install
+
+# For the frontend
+cd ../frontend
+npm install
 
