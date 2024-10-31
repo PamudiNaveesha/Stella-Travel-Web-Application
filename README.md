@@ -5,7 +5,7 @@ A brief description of your project goes here. Explain what the project does and
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Clone the Repository](#Clone-the-repository)
+- [Clone the Repository](#clone-the-repository)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
@@ -34,10 +34,9 @@ Before you begin, ensure you have met the following requirements:
 
 5. **Git**: [Download Git](https://git-scm.com/downloads)
 
-## Clone-the-repository
+## Clone the Repository
+
+To clone the repository, run the following command in your terminal:
 
 ```bash
-   git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
-
-
-
+git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
