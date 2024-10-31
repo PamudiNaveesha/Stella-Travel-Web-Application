@@ -55,7 +55,8 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 ## Set Up Environment Variables
 
 - **MONGODB_URI**: This is the key that your application will use to access the MongoDB database.
-- **mongodb+srv://<username>:<password>@<clustername>.mongodb.net/<database>**: Replace `<username>`, `<password>`, `<clustername>`, and `<database>` with your actual MongoDB credentials and database name.
+- **mongodb+srv://<username>:<password>@<clustername>.mongodb.net/<database>**: 
+  - Replace `<username>`, `<password>`, `<clustername>`, and `<database>` with your actual MongoDB credentials and database name.
 
 ## Run the Project
 
