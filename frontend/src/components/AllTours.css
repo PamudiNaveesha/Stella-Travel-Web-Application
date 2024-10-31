@@ -1,0 +1,138 @@
+.abc {
+  background-color: #ffffff; 
+  border: solid;
+  color: green;
+  padding: 7px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 700;
+  width: 20%;
+  float: right;
+  margin: 7px 2px;
+  border-radius: 30px;
+  border-color: green;
+}
+
+.gen_btn {
+  background-color: #4CAF50;
+}
+
+.table {
+   
+    border-collapse: collapse;
+    width: 100%;
+    cursor: default;
+  }
+  
+  .table th {
+    border: 15x solid #242626;
+    padding: 6px 4px;
+    font-size: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:#ADADC9;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+  }
+  
+  .table td {
+    border: 1px solid lightgrey;
+    padding: 6px 4px;
+    font-size: 15px;
+  }
+
+  .tb {
+    margin: 50px;
+  }
+  
+  .table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .table tr:nth-child(odd){background-color: gainsboro;}
+
+/*.butn {
+  background-color: #4CAF50; /* Green */
+  /*border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  width: 10%;
+  border-radius: 4px;
+  float: left;
+} */
+
+/*.btn{
+/* width: 100%;
+ background-color: #4CAF50; 
+}*/
+
+/*footer css*/
+
+footer {
+background-color: #f2f2f2;
+padding: 30px 0;
+font-size: 14px;
+}
+.container {
+max-width: 960px;
+margin: 0 auto;
+}
+.row {
+display: flex;
+flex-wrap: wrap;
+margin-right: -15px;
+margin-left: -15px;
+}
+.col-md-4 {
+flex-basis: 0;
+flex-grow: 1;
+max-width: 33.3333333333%;
+padding-right: 15px;
+padding-left: 15px;
+}
+h3 {
+font-size: 18px;
+margin-top: 0;
+}
+p {
+margin-top: 0;
+margin-bottom: 1rem;
+}
+ul.social-icons {
+margin: 0;
+padding: 0;
+list-style: none;
+display: flex;
+}
+ul.social-icons li {
+margin-right: 10px;
+}
+ul.social-icons li:last-child {
+margin-right: 0;
+}
+ul.social-icons li a {
+display: inline-block;
+color: #fff;
+background-color: #333;
+width: 30px;
+height: 30px;
+text-align: center;
+line-height: 30px;
+border-radius: 50%;
+}
+.fa {
+font-size: 20px;
+}
+hr {
+margin-top: 1rem;
+margin-bottom: 1rem;
+border: 0;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+p.text-center {
+text-align: center;
+}
