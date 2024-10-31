@@ -4,14 +4,51 @@ A brief description of your project goes here. Explain what the project does and
 
 ## Table of Contents
 
+- [Project Interfaces](#project-interfaces)
+- [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
 - [Clone the Repository](#clone-the-repository)
 - [Navigate to the Project Directory](#navigate-to-the-project-directory)
 - [Install Dependencies](#install-dependencies)
 - [Set Up Environment Variables](#set-up-environment-variables)
 - [Run the Project](#run-the-project)
-- [Project Interfaces](#project-interfaces)
-- [Technologies Used](#technologies-used)
+
+## Project Interfaces
+
+### Home page
+![Screenshot 1](screenshots/screenshot2.JPG)
+![Screenshot 2](screenshots/screenshot1.png)
+
+### Tours page User View
+![Screenshot 3](screenshots/screenshot3.png)
+
+### View More page
+![Screenshot 4](screenshots/screenshot4.png)
+
+### Book Tours page
+![Screenshot 6](screenshots/screenshot6.png)
+
+### New Bookings page admin View
+![Screenshot 8](screenshots/screenshot8.png)
+
+### Tours page Admin View
+![Screenshot 9](screenshots/screenshot9.png)
+
+### Add New Tours page
+![Screenshot 10](screenshots/screenshot10.png)
+
+### Update Tour page
+![Screenshot 11](screenshots/screenshot11.png)
+
+### Generate Report page
+![Screenshot 12](screenshots/screenshot12.png)
+
+## Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
 ## Prerequisites
 
@@ -72,40 +109,3 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 #### Start the frontend application
 - cd frontend
 - npm start 
-
-## Project Interfaces
-
-### Home page
-![Screenshot 1](screenshots/screenshot2.JPG)
-![Screenshot 2](screenshots/screenshot1.png)
-
-### Tours page User View
-![Screenshot 3](screenshots/screenshot3.png)
-
-### View More page
-![Screenshot 4](screenshots/screenshot4.png)
-
-### Book Tours page
-![Screenshot 6](screenshots/screenshot6.png)
-
-### New Bookings page admin View
-![Screenshot 8](screenshots/screenshot8.png)
-
-### Tours page Admin View
-![Screenshot 9](screenshots/screenshot9.png)
-
-### Add New Tours page
-![Screenshot 10](screenshots/screenshot10.png)
-
-### Update Tour page
-![Screenshot 11](screenshots/screenshot11.png)
-
-### Generate Report page
-![Screenshot 12](screenshots/screenshot12.png)
-
-## Technologies Used
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
