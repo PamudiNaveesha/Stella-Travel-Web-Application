@@ -42,17 +42,15 @@ git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Cu
 
 ### Navigate to the Project Directory
 
-After cloning the repository, navigate into the project directory:
-
 cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 
 ## Install Dependencies
 
-# For the backend
+**For the backend**
 cd BACKEND
 npm install
 
-# For the frontend
+**For the frontend**
 cd ../frontend
 npm install
 
