@@ -52,7 +52,7 @@ cd BACKEND
 npm install
 
 #### For the frontend
-- [cd frontend](#)
+- cd frontend
 <br>
-npm install
+- npm install
 
