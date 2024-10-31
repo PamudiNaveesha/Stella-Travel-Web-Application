@@ -76,8 +76,8 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 ## Project Interfaces
 
 ### Home page
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.JPG)
+![Screenshot 1](screenshots/screenshot2.JPG)
+![Screenshot 2](screenshots/screenshot1.png)
 
 ### Tours page User View
 ![Screenshot 3](screenshots/screenshot3.png)
