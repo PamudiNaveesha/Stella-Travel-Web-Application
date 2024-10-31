@@ -36,6 +36,7 @@ Before you begin, ensure you have met the following requirements:
 
 To clone the repository, run the following command in your terminal:
 
+```bash
 git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
 
 ## Navigate to the Project Directory
