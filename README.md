@@ -40,13 +40,13 @@ To clone the repository, run the following command in your terminal:
 
 git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
 
-### Navigate to the Project Directory
+## Navigate to the Project Directory
 
 cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 
 ## Install Dependencies
 
-**For the backend**
+#### For the backend**
 cd BACKEND
 npm install
 
