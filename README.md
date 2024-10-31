@@ -56,8 +56,11 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 
 1. Open the `.env` file in the **BACKEND** folder of your project.
 2. Add the following line to the file:
-3. **MONGODB_URI**: This is the key that your application will use to access the MongoDB database.
-4. **MongoDB URI Format**: Replace `<username>`, `<password>`, `<clustername>`, and `<database>` with your actual MongoDB credentials and database name.
+
+   MONGODB_URI=mongodb+srv://<username>:<password>@<clustername>.mongodb.net/<database>
+   
+4. **MONGODB_URI**: This is the key that your application will use to access the MongoDB database.
+5. **MongoDB URI Format**: Replace `<username>`, `<password>`, `<clustername>`, and `<database>` with your actual MongoDB credentials and database name.
   
 ## Run the Project
 
