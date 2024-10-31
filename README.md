@@ -36,10 +36,12 @@ Before you begin, ensure you have met the following requirements:
 
 To clone the repository, run the following command in your terminal:
 
+```plaintext
 git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
 
 ## Navigate to the Project Directory
 
+```plaintext
 cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 
 ## Install Dependencies
@@ -56,6 +58,7 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 
 1. Open the `.env` file in the **BACKEND** folder of your project.
 2. Add the following line to the file:
+
    ```plaintext
    MONGODB_URI=mongodb+srv://<username>:<password>@<clustername>.mongodb.net/<database>
    
