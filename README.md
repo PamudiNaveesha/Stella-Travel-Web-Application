@@ -45,12 +45,12 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 ## Install Dependencies
 
 #### For the backend
-cd BACKEND
-npm install
+- cd BACKEND
+- npm install
 
 #### For the frontend
-cd frontend
-npm install
+- cd frontend
+- npm install
 
 ## Set Up Environment Variables
 
