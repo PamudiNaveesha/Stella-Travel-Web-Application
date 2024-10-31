@@ -8,12 +8,10 @@ A brief description of your project goes here. Explain what the project does and
 - [Clone the Repository](#clone-the-repository)
 - [Navigate to the Project Directory](#navigate-to-the-project-directory)
 - [Install Dependencies](#install-dependencies)
-- [API Endpoints](#api-endpoints)
+- [Set Up Environment Variables](#set-up-environment-variables)
+- [Run the Project](#run-the-project)
 - [Project Interfaces](#project-interfaces)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
 
@@ -54,3 +52,24 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 - cd frontend
 - npm install
 
+## Set Up Environment Variables
+
+- **MONGODB_URI**: This is the key that your application will use to access the MongoDB database.
+- **mongodb+srv://<username>:<password>@<clustername>.mongodb.net/<database>**: Replace `<username>`, `<password>`, `<clustername>`, and `<database>` with your actual MongoDB credentials and database name.
+
+## Run the Project
+
+#### Start the backend server
+- cd BACKEND
+- npm run dev
+
+#### Start the frontend application
+- cd frontend
+- npm start 
+
+## Project Interfaces
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
+## Technologies Used
