@@ -53,6 +53,6 @@ npm install
 
 #### For the frontend
 - cd frontend
-<br>
+- <br>
 - npm install
 
