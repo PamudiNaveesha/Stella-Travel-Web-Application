@@ -102,13 +102,13 @@ Before you begin, ensure you have met the following requirements:
   
 ## Run the Project
 
-#### Start the backend server
+   1. **For the backend**
 
       ```bash
       cd BACKEND
       npm run dev
 
-#### Start the frontend application
+   2. **For the frontend**
 
       ```bash
       cd frontend
