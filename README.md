@@ -72,8 +72,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
       ```bash
-      git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
-      cd Stella-Travel-Web-Application-for-Culture-and-Tourism
+      git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application.git
+      cd Stella-Travel-Web-Application
 
 2. **Install dependencies:**
 
