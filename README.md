@@ -1,6 +1,6 @@
 # Stella Travel Web Application
 
-A brief description of your project goes here. Explain what the project does and its main features.
+This is a tourism web application designed to help travelers manage their trips while showcasing our cultural heritage. My contribution to this project focuses on tour management, where I implemented CRUD operations to efficiently handle tour details. Additionally, the application includes features for managing tour bookings, ensuring a seamless experience for users as they plan and book their journeys.
 
 ## Table of Contents
 
@@ -72,8 +72,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
       ```bash
-      git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application.git
-      cd Stella-Travel-Web-Application
+      git clone https://github.com/PamudiNaveesha/Stella_Travel_Web_Application.git
+      cd Stella_Travel_Web_Application
 
 2. **Install dependencies:**
 
