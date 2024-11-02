@@ -7,9 +7,7 @@ A brief description of your project goes here. Explain what the project does and
 - [Project Interfaces](#project-interfaces)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
-- [Clone the Repository](#clone-the-repository)
-- [Navigate to the Project Directory](#navigate-to-the-project-directory)
-- [Install Dependencies](#install-dependencies)
+- [Installation](#installation)
 - [Set Up Environment Variables](#set-up-environment-variables)
 - [Run the Project](#run-the-project)
 
@@ -69,25 +67,27 @@ Before you begin, ensure you have met the following requirements:
 
 5. **Git**: [Download Git](https://git-scm.com/downloads)
 
-## Clone the Repository
+## Installation
 
-To clone the repository, run the following command in your terminal:
+1. **Clone the repository:**
 
-git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
+      ```bash
+      git clone https://github.com/PamudiNaveesha/Stella-Travel-Web-Application-for-Culture-and-Tourism.git
+      cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 
-## Navigate to the Project Directory
-
-cd Stella-Travel-Web-Application-for-Culture-and-Tourism
-
-## Install Dependencies
+2. **Install dependencies:**
 
 #### For the backend
-- cd BACKEND
-- npm install
+
+      ```bash
+      cd BACKEND
+      npm install
 
 #### For the frontend
-- cd frontend
-- npm install
+
+      ```bash
+      cd frontend
+      npm install
 
 ## Set Up Environment Variables
 
@@ -103,9 +103,13 @@ cd Stella-Travel-Web-Application-for-Culture-and-Tourism
 ## Run the Project
 
 #### Start the backend server
-- cd BACKEND
-- npm run dev
+
+      ```bash
+      cd BACKEND
+      npm run dev
 
 #### Start the frontend application
-- cd frontend
-- npm start 
+
+      ```bash
+      cd frontend
+      npm start 
