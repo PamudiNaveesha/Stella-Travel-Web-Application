@@ -77,17 +77,19 @@ Before you begin, ensure you have met the following requirements:
 
 2. **Install dependencies:**
 
-**For the backend**
+#### For the backend
 
       ```bash
       cd BACKEND
       npm install
+      ```
 
-**For the frontend**
+#### For the frontend
 
       ```bash
       cd frontend
       npm install
+      ```
 
 ## Set Up Environment Variables
 
